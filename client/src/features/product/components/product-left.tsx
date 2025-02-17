@@ -14,7 +14,7 @@ export default function ProductLeft() {
     const [hoveredItem, setHoveredItem] = useState<number | null>(null);
 
     return (
-        <div className="w-5/12">
+        <div className="w-5/12 select-none">
             <Image
                 src={'/2.jpg'}
                 alt="item"

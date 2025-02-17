@@ -1,4 +1,5 @@
 import { Button } from '@/components/ui/button';
+import Model from '@/features/product/components/model';
 import Policy from '@/features/product/components/policy';
 import { CircleSlash, Star } from 'lucide-react';
 
@@ -57,6 +58,7 @@ export default function ProductRight() {
                 <span className="underline ml-1">đ</span>
             </div>
             <Policy />
+            <Model />
         </div>
     );
 }

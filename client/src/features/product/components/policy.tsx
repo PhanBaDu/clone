@@ -48,15 +48,15 @@ export default function Policy() {
                                     Shopping
                                 </h2>
                                 <Separator className="border-red-500 mt-2 mb-2" />
-                                <div className="flex gap-4 items-start">
+                                <div className="flex gap-2 items-start">
                                     <div>
                                         <Box
                                             className="text-primary"
                                             strokeWidth={1.3}
-                                            size={30}
+                                            size={20}
                                         />
                                     </div>
-                                    <div className="text-muted-foreground">
+                                    <div className="text-muted-foreground text-xs">
                                         <h3>Trả hàng miễn phí 15 ngày</h3>
                                         <p>
                                             Miễn phí Trả hàng trong 15 ngày để
@@ -76,16 +76,5 @@ export default function Policy() {
                 </NavigationMenuList>
             </NavigationMenu>
         </div>
-        // <div className="flex items-center gap-1">
-
-        //     <div className="flex gap-1 items-center">
-        //         <span>Trả hàng miễn phí 15 ngày</span>
-        //         <ShieldCheck
-        //             strokeWidth={3}
-        //             className="text-primary"
-        //             size={14}
-        //         />
-        //     </div>
-        // </div>
     );
 }

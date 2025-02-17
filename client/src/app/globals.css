@@ -8,6 +8,26 @@
     }
 }
 
+/* Chỉnh màu sắc thanh cuộn */
+::-webkit-scrollbar {
+    width: 8px; /* Độ rộng scrollbar */
+    height: 8px; /* Chiều cao scrollbar ngang */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #dc2626; /* Màu của thanh cuộn */
+    border-radius: 4px; /* Bo góc */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Màu nền của track */
+    border-radius: 4px;
+}
+
 @layer base {
     :root {
         --background: 0 0% 100%;
