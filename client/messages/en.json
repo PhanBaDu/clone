@@ -1,0 +1,31 @@
+{
+    "app_header": {
+        "seller_text": "Seller Dashboard",
+        "settings_text": "Settings",
+        "languages_text": "Language",
+        "register_text": "Sign Up",
+        "login_text": "Sign In",
+        "search_text": "Search"
+    },
+    "page_app": {
+        "title_text": "Daily Discover!"
+    },
+    "page_auth": {
+        "title_signup_text": "Registration page",
+        "title_login_text": "Login page",
+        "heading_signup_text": "Sign Up",
+        "heading_login_text": "Log In",
+        "description_signup_text": "Please select a registration method!",
+        "description_login_text": "Welcome to us!",
+        "google_signup_text": "Sign Up with Google",
+        "facebook_signup_text": "Sign Up with Facebook",
+        "google_login_text": "Log In with Google",
+        "facebook_login_text": "Log In with Facebook",
+        "redirect_home_text": "Home Page",
+        "redirect_signup_text": "Sign Up Page",
+        "redirect_login_text": "Log In Page"
+    },
+    "footer": {
+        "info_text": "Contact Us"
+    }
+}

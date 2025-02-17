@@ -1,0 +1,31 @@
+{
+    "app_header": {
+        "seller_text": "Trang người bán",
+        "settings_text": "Cài đặt",
+        "languages_text": "Ngôn ngữ",
+        "register_text": "Đăng ký",
+        "login_text": "Đăng nhập",
+        "search_text": "Tìm kiếm"
+    },
+    "page_app": {
+        "title_text": "Gợi ý hôm nay!"
+    },
+    "page_auth": {
+        "title_signup_text": "Trang đăng ký",
+        "title_login_text": "Trang đăng nhập",
+        "heading_signup_text": "Đăng ký",
+        "heading_login_text": "Đăng nhập",
+        "description_signup_text": "Hãy chọn phương thức đăng ký!",
+        "description_login_text": "Chào mừng bạn đến với chúng tôi!",
+        "google_signup_text": "Đăng ký với Google",
+        "facebook_signup_text": "Đăng ký với Facebook",
+        "google_login_text": "Đăng nhập với Google",
+        "facebook_login_text": "Đăng nhập với Facebook",
+        "redirect_home_text": "Trở về trang chủ",
+        "redirect_signup_text": "Trang đăng ký",
+        "redirect_login_text": "Trang đăng nhập"
+    },
+    "footer": {
+        "info_text": "Thông tin liên hệ"
+    }
+}
